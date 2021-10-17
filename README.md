@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maini1337
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C/++
 - 📫 How to reach me Maini#9999
 
 <!---
