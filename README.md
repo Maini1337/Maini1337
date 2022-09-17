@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maini1337
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C#
-- 📫 How to reach me Maini#9999
+- 📫 How to reach me DISCORD: Maini#8661
 
 <!---
 Maini1337/Maini1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
