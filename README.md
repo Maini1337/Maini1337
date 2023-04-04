@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maini1337
+- 👋 Hi, I’m @Arnd#2390
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C# & Lua
 - 📫 How to reach me DISCORD: Maini#8661
